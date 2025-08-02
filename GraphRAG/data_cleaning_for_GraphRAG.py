@@ -168,7 +168,6 @@ def main():
           "tables": chapter_tables
       })
 
-  # final output object with metadata
   output = {
       "source_file": pdf_path,
     # "extracted_on": datetime.now().strftime("%y-%m-%d"),
